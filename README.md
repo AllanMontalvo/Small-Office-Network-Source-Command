@@ -1,4 +1,4 @@
-# Small-Office-Network-Source-Command
+# Small-Office-Network-Deployment-Source-Command
 
 The following commands use to configure all the cisco devices for the [Small Office Network Deployment](https://github.com/AllanMontalvo/Small-Office-Network) project is listed below.
 
